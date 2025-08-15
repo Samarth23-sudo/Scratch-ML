@@ -1,0 +1,18 @@
+{"time":"2024-10-02T20:02:35.895848363+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-02T20:02:35.895862438+05:30","level":"INFO","msg":"created symlink","path":"/home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/wandb/run-20241002_200235-ldpykxsm/logs/debug-core.log"}
+{"time":"2024-10-02T20:02:35.904224153+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-02T20:02:35.906592433+05:30","level":"INFO","msg":"created new stream","id":"ldpykxsm"}
+{"time":"2024-10-02T20:02:35.906613115+05:30","level":"INFO","msg":"stream: started","id":"ldpykxsm"}
+{"time":"2024-10-02T20:02:35.906627395+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"ldpykxsm"}}
+{"time":"2024-10-02T20:02:35.906683435+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ldpykxsm"}}
+{"time":"2024-10-02T20:02:35.906691054+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"ldpykxsm"}}
+{"time":"2024-10-02T20:02:36.375986309+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-02T20:02:36.376496719+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-02T20:02:39.099626093+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-02T20:02:39.099684821+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-02T20:02:41.701298199+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-02T20:02:43.35809277+05:30","level":"INFO","msg":"stream: closing","id":"ldpykxsm"}
+{"time":"2024-10-02T20:02:43.35810041+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"ldpykxsm"}}
+{"time":"2024-10-02T20:02:43.358114649+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ldpykxsm"}}
+{"time":"2024-10-02T20:02:43.358142303+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"ldpykxsm"}}
+{"time":"2024-10-02T20:02:43.358191174+05:30","level":"INFO","msg":"stream: closed","id":"ldpykxsm"}

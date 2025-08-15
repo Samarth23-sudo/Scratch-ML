@@ -1,0 +1,18 @@
+{"time":"2024-10-03T12:41:57.22002707+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-03T12:41:57.220044781+05:30","level":"INFO","msg":"created symlink","path":"/home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/wandb/run-20241003_124157-vcd53yky/logs/debug-core.log"}
+{"time":"2024-10-03T12:41:57.305210233+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-03T12:41:57.312053647+05:30","level":"INFO","msg":"created new stream","id":"vcd53yky"}
+{"time":"2024-10-03T12:41:57.312086267+05:30","level":"INFO","msg":"stream: started","id":"vcd53yky"}
+{"time":"2024-10-03T12:41:57.312123163+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"vcd53yky"}}
+{"time":"2024-10-03T12:41:57.312193975+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"vcd53yky"}}
+{"time":"2024-10-03T12:41:57.312200372+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"vcd53yky"}}
+{"time":"2024-10-03T12:41:57.686503943+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-03T12:41:57.687038214+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-03T12:42:01.609354803+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-03T12:42:01.609544476+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-03T12:42:03.057266471+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-03T12:42:04.498806952+05:30","level":"INFO","msg":"stream: closing","id":"vcd53yky"}
+{"time":"2024-10-03T12:42:04.49882015+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"vcd53yky"}}
+{"time":"2024-10-03T12:42:04.498838199+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"vcd53yky"}}
+{"time":"2024-10-03T12:42:04.498893382+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"vcd53yky"}}
+{"time":"2024-10-03T12:42:04.498897312+05:30","level":"INFO","msg":"stream: closed","id":"vcd53yky"}

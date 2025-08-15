@@ -1,0 +1,18 @@
+{"time":"2024-10-03T12:35:20.365645662+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-03T12:35:20.365668188+05:30","level":"INFO","msg":"created symlink","path":"/home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/wandb/run-20241003_123520-tvp4y72y/logs/debug-core.log"}
+{"time":"2024-10-03T12:35:20.394675136+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-03T12:35:20.401513342+05:30","level":"INFO","msg":"created new stream","id":"tvp4y72y"}
+{"time":"2024-10-03T12:35:20.401534325+05:30","level":"INFO","msg":"stream: started","id":"tvp4y72y"}
+{"time":"2024-10-03T12:35:20.401542275+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"tvp4y72y"}}
+{"time":"2024-10-03T12:35:20.401545116+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"tvp4y72y"}}
+{"time":"2024-10-03T12:35:20.401561071+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"tvp4y72y"}}
+{"time":"2024-10-03T12:35:20.767210106+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-03T12:35:20.767880464+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-03T12:35:23.697048988+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-03T12:35:23.697112181+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-03T12:35:24.982575177+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-03T12:35:26.396973094+05:30","level":"INFO","msg":"stream: closing","id":"tvp4y72y"}
+{"time":"2024-10-03T12:35:26.396981762+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"tvp4y72y"}}
+{"time":"2024-10-03T12:35:26.396993186+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"tvp4y72y"}}
+{"time":"2024-10-03T12:35:26.397029513+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"tvp4y72y"}}
+{"time":"2024-10-03T12:35:26.397040746+05:30","level":"INFO","msg":"stream: closed","id":"tvp4y72y"}

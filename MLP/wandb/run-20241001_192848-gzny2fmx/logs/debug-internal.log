@@ -1,0 +1,18 @@
+{"time":"2024-10-01T19:28:48.841516561+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-01T19:28:48.841555331+05:30","level":"INFO","msg":"created symlink","path":"/home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/wandb/run-20241001_192848-gzny2fmx/logs/debug-core.log"}
+{"time":"2024-10-01T19:28:48.92830639+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-01T19:28:48.934108051+05:30","level":"INFO","msg":"created new stream","id":"gzny2fmx"}
+{"time":"2024-10-01T19:28:48.934157193+05:30","level":"INFO","msg":"stream: started","id":"gzny2fmx"}
+{"time":"2024-10-01T19:28:48.934211701+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"gzny2fmx"}}
+{"time":"2024-10-01T19:28:48.934192175+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"gzny2fmx"}}
+{"time":"2024-10-01T19:28:48.934271497+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"gzny2fmx"}}
+{"time":"2024-10-01T19:28:49.346400205+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-01T19:28:49.346746405+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-01T19:28:49.524195072+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-01T19:28:49.524460062+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-01T19:28:51.6695243+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-01T19:28:53.021092257+05:30","level":"INFO","msg":"stream: closing","id":"gzny2fmx"}
+{"time":"2024-10-01T19:28:53.021108091+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"gzny2fmx"}}
+{"time":"2024-10-01T19:28:53.021126597+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"gzny2fmx"}}
+{"time":"2024-10-01T19:28:53.021198843+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"gzny2fmx"}}
+{"time":"2024-10-01T19:28:53.021249598+05:30","level":"INFO","msg":"stream: closed","id":"gzny2fmx"}

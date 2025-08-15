@@ -1,0 +1,16 @@
+wandb_version: 1
+
+activation:
+  value: relu
+batch_size:
+  value: 64
+epochs:
+  value: 100
+hidden_layers:
+  value:
+  - 64
+  - 32
+learning_rate:
+  value: 0.001
+optimizer:
+  value: sgd

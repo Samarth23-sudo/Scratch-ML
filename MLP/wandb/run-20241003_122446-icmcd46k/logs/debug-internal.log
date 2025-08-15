@@ -1,0 +1,18 @@
+{"time":"2024-10-03T12:24:46.346889867+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-03T12:24:46.34690407+05:30","level":"INFO","msg":"created symlink","path":"/home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/wandb/run-20241003_122446-icmcd46k/logs/debug-core.log"}
+{"time":"2024-10-03T12:24:46.35365882+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-03T12:24:46.356331629+05:30","level":"INFO","msg":"created new stream","id":"icmcd46k"}
+{"time":"2024-10-03T12:24:46.356347911+05:30","level":"INFO","msg":"stream: started","id":"icmcd46k"}
+{"time":"2024-10-03T12:24:46.356365727+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"icmcd46k"}}
+{"time":"2024-10-03T12:24:46.356356666+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"icmcd46k"}}
+{"time":"2024-10-03T12:24:46.356363561+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"icmcd46k"}}
+{"time":"2024-10-03T12:24:46.730701581+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-03T12:24:46.732006024+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-03T12:24:48.320799802+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-03T12:24:48.320905471+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-03T12:24:49.624279526+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-03T12:24:51.01613761+05:30","level":"INFO","msg":"stream: closing","id":"icmcd46k"}
+{"time":"2024-10-03T12:24:51.016147206+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"icmcd46k"}}
+{"time":"2024-10-03T12:24:51.016161559+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"icmcd46k"}}
+{"time":"2024-10-03T12:24:51.016183624+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"icmcd46k"}}
+{"time":"2024-10-03T12:24:51.016223306+05:30","level":"INFO","msg":"stream: closed","id":"icmcd46k"}

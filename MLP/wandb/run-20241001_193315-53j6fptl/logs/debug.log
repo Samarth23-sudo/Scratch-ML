@@ -1,0 +1,33 @@
+2024-10-01 19:33:15,476 INFO    MainThread:53142 [wandb_setup.py:_flush():79] Current SDK version is 0.18.2
+2024-10-01 19:33:15,476 INFO    MainThread:53142 [wandb_setup.py:_flush():79] Configure stats pid to 53142
+2024-10-01 19:33:15,476 INFO    MainThread:53142 [wandb_setup.py:_flush():79] Loading settings from /home/samarth/.config/wandb/settings
+2024-10-01 19:33:15,476 INFO    MainThread:53142 [wandb_setup.py:_flush():79] Loading settings from /home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/wandb/settings
+2024-10-01 19:33:15,476 INFO    MainThread:53142 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-10-01 19:33:15,476 INFO    MainThread:53142 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-01 19:33:15,477 INFO    MainThread:53142 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'models/MLP/MLP_test.py', 'program_abspath': '/home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/MLP_test.py', 'program': '/home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/MLP_test.py'}
+2024-10-01 19:33:15,477 INFO    MainThread:53142 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-01 19:33:15,477 INFO    MainThread:53142 [wandb_init.py:_log_setup():532] Logging user logs to /home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/wandb/run-20241001_193315-53j6fptl/logs/debug.log
+2024-10-01 19:33:15,477 INFO    MainThread:53142 [wandb_init.py:_log_setup():533] Logging internal logs to /home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/wandb/run-20241001_193315-53j6fptl/logs/debug-internal.log
+2024-10-01 19:33:15,477 INFO    MainThread:53142 [wandb_init.py:init():616] calling init triggers
+2024-10-01 19:33:15,477 INFO    MainThread:53142 [wandb_init.py:init():623] wandb.init called with sweep_config: {}
+config: {}
+2024-10-01 19:33:15,477 INFO    MainThread:53142 [wandb_init.py:init():666] starting backend
+2024-10-01 19:33:15,477 INFO    MainThread:53142 [wandb_init.py:init():670] sending inform_init request
+2024-10-01 19:33:15,479 INFO    MainThread:53142 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-01 19:33:15,479 INFO    MainThread:53142 [wandb_init.py:init():683] backend started and connected
+2024-10-01 19:33:15,481 INFO    MainThread:53142 [wandb_init.py:init():778] updated telemetry
+2024-10-01 19:33:15,486 INFO    MainThread:53142 [wandb_init.py:init():811] communicating run to backend with 90.0 second timeout
+2024-10-01 19:33:15,886 INFO    MainThread:53142 [wandb_init.py:init():862] starting run threads in backend
+2024-10-01 19:33:15,979 INFO    MainThread:53142 [wandb_run.py:_console_start():2464] atexit reg
+2024-10-01 19:33:15,979 INFO    MainThread:53142 [wandb_run.py:_redirect():2312] redirect: wrap_raw
+2024-10-01 19:33:15,979 INFO    MainThread:53142 [wandb_run.py:_redirect():2377] Wrapping output streams.
+2024-10-01 19:33:15,979 INFO    MainThread:53142 [wandb_run.py:_redirect():2402] Redirects installed.
+2024-10-01 19:33:15,979 INFO    MainThread:53142 [wandb_init.py:init():906] run started, returning control to user process
+2024-10-01 19:33:15,980 INFO    MainThread:53142 [wandb_run.py:_config_callback():1393] config_cb None None {'learning_rate': 0.001, 'activation': 'tanh', 'optimizer': 'sgd', 'hidden_layers': [128, 64], 'epochs': 100}
+2024-10-01 19:33:24,624 INFO    MainThread:53142 [wandb_run.py:_finish():2163] finishing run samarthwork-iiit-hyderabad/smai-m24-assignments-Samarth23-sudo-models_MLP/53j6fptl
+2024-10-01 19:33:24,624 INFO    MainThread:53142 [wandb_run.py:_atexit_cleanup():2427] got exitcode: 0
+2024-10-01 19:33:24,625 INFO    MainThread:53142 [wandb_run.py:_restore():2409] restore
+2024-10-01 19:33:24,625 INFO    MainThread:53142 [wandb_run.py:_restore():2415] restore done
+2024-10-01 19:33:30,458 INFO    MainThread:53142 [wandb_run.py:_footer_history_summary_info():4042] rendering history
+2024-10-01 19:33:30,459 INFO    MainThread:53142 [wandb_run.py:_footer_history_summary_info():4074] rendering summary
+2024-10-01 19:33:30,466 INFO    MainThread:53142 [wandb_run.py:_footer_sync_info():4001] logging synced files

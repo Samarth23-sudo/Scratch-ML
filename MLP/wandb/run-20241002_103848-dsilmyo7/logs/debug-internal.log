@@ -1,0 +1,18 @@
+{"time":"2024-10-02T10:38:48.558288409+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-02T10:38:48.558306138+05:30","level":"INFO","msg":"created symlink","path":"/home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/wandb/run-20241002_103848-dsilmyo7/logs/debug-core.log"}
+{"time":"2024-10-02T10:38:48.687095129+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-02T10:38:48.694626083+05:30","level":"INFO","msg":"created new stream","id":"dsilmyo7"}
+{"time":"2024-10-02T10:38:48.694678082+05:30","level":"INFO","msg":"stream: started","id":"dsilmyo7"}
+{"time":"2024-10-02T10:38:48.694715569+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"dsilmyo7"}}
+{"time":"2024-10-02T10:38:48.694750913+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"dsilmyo7"}}
+{"time":"2024-10-02T10:38:48.694793578+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"dsilmyo7"}}
+{"time":"2024-10-02T10:38:49.071349391+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-02T10:38:49.071888853+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-02T10:38:56.472036584+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-02T10:38:56.472106172+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-02T10:38:58.217313384+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-02T10:38:59.699984122+05:30","level":"INFO","msg":"stream: closing","id":"dsilmyo7"}
+{"time":"2024-10-02T10:38:59.699999029+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"dsilmyo7"}}
+{"time":"2024-10-02T10:38:59.700020091+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"dsilmyo7"}}
+{"time":"2024-10-02T10:38:59.700043034+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"dsilmyo7"}}
+{"time":"2024-10-02T10:38:59.700104263+05:30","level":"INFO","msg":"stream: closed","id":"dsilmyo7"}

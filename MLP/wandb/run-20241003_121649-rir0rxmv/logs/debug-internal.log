@@ -1,0 +1,18 @@
+{"time":"2024-10-03T12:16:49.520991486+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-03T12:16:49.521004995+05:30","level":"INFO","msg":"created symlink","path":"/home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/wandb/run-20241003_121649-rir0rxmv/logs/debug-core.log"}
+{"time":"2024-10-03T12:16:49.532862115+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-03T12:16:49.535268509+05:30","level":"INFO","msg":"created new stream","id":"rir0rxmv"}
+{"time":"2024-10-03T12:16:49.535293526+05:30","level":"INFO","msg":"stream: started","id":"rir0rxmv"}
+{"time":"2024-10-03T12:16:49.535311978+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"rir0rxmv"}}
+{"time":"2024-10-03T12:16:49.535360624+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"rir0rxmv"}}
+{"time":"2024-10-03T12:16:49.535374801+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"rir0rxmv"}}
+{"time":"2024-10-03T12:16:50.181044346+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-03T12:16:50.181591886+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-03T12:16:56.210769915+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-03T12:16:56.210846798+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-03T12:16:57.897988066+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-03T12:16:59.360424886+05:30","level":"INFO","msg":"stream: closing","id":"rir0rxmv"}
+{"time":"2024-10-03T12:16:59.360444002+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"rir0rxmv"}}
+{"time":"2024-10-03T12:16:59.360459038+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"rir0rxmv"}}
+{"time":"2024-10-03T12:16:59.360490958+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"rir0rxmv"}}
+{"time":"2024-10-03T12:16:59.360493886+05:30","level":"INFO","msg":"stream: closed","id":"rir0rxmv"}

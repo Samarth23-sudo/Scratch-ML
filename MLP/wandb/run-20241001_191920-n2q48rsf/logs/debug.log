@@ -1,0 +1,40 @@
+2024-10-01 19:19:20,265 INFO    Thread-4 (_run_job):47987 [wandb_setup.py:_flush():79] Current SDK version is 0.18.2
+2024-10-01 19:19:20,265 INFO    Thread-4 (_run_job):47987 [wandb_setup.py:_flush():79] Configure stats pid to 47987
+2024-10-01 19:19:20,265 INFO    Thread-4 (_run_job):47987 [wandb_setup.py:_flush():79] Loading settings from /home/samarth/.config/wandb/settings
+2024-10-01 19:19:20,265 INFO    Thread-4 (_run_job):47987 [wandb_setup.py:_flush():79] Loading settings from /home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/wandb/settings
+2024-10-01 19:19:20,265 INFO    Thread-4 (_run_job):47987 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'project': 'mlp-wine-quality', 'entity': 'samarthwork-iiit-hyderabad', 'root_dir': '/home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP', 'sweep_id': '2m51ga8u', 'run_id': 'n2q48rsf', 'sweep_param_path': '/home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/wandb/sweep-2m51ga8u/config-n2q48rsf.yaml'}
+2024-10-01 19:19:20,265 INFO    Thread-4 (_run_job):47987 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-01 19:19:20,265 INFO    Thread-4 (_run_job):47987 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'models/MLP/MLP_test.py', 'program_abspath': '/home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/MLP_test.py', 'program': '/home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/MLP_test.py'}
+2024-10-01 19:19:20,265 INFO    Thread-4 (_run_job):47987 [wandb_init.py:_log_setup():532] Logging user logs to /home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/wandb/run-20241001_191920-n2q48rsf/logs/debug.log
+2024-10-01 19:19:20,265 INFO    Thread-4 (_run_job):47987 [wandb_init.py:_log_setup():533] Logging internal logs to /home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/wandb/run-20241001_191920-n2q48rsf/logs/debug-internal.log
+2024-10-01 19:19:20,265 INFO    Thread-4 (_run_job):47987 [wandb_init.py:init():616] calling init triggers
+2024-10-01 19:19:20,266 INFO    Thread-4 (_run_job):47987 [wandb_init.py:init():623] wandb.init called with sweep_config: {'activation': 'relu', 'learning_rate': 0.01, 'optimizer': 'sgd'}
+config: {}
+2024-10-01 19:19:20,266 INFO    Thread-4 (_run_job):47987 [wandb_init.py:init():661] wandb.init() called when a run is still active
+2024-10-01 19:19:20,266 ERROR   Thread-4 (_run_job):47987 [wandb_init.py:init():1261] error in wandb.init()
+Traceback (most recent call last):
+  File "/home/samarth/.local/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 1251, in init
+    return wi.init()
+  File "/home/samarth/.local/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 662, in init
+    with telemetry.context() as tel:
+  File "/home/samarth/.local/lib/python3.10/site-packages/wandb/sdk/lib/telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "/home/samarth/.local/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 806, in _telemetry_callback
+    self._telemetry_flush()
+  File "/home/samarth/.local/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 819, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "/home/samarth/.local/lib/python3.10/site-packages/wandb/sdk/interface/interface_shared.py", line 101, in _publish_telemetry
+    self._publish(rec)
+  File "/home/samarth/.local/lib/python3.10/site-packages/wandb/sdk/interface/interface_sock.py", line 51, in _publish
+    self._sock_client.send_record_publish(record)
+  File "/home/samarth/.local/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 225, in send_record_publish
+    self.send_server_request(server_req)
+  File "/home/samarth/.local/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 157, in send_server_request
+    self._send_message(msg)
+  File "/home/samarth/.local/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 154, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "/home/samarth/.local/lib/python3.10/site-packages/wandb/sdk/lib/sock_client.py", line 132, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+BrokenPipeError: [Errno 32] Broken pipe
+2024-10-01 19:19:20,483 INFO    Thread-4 (_run_job):47987 [wandb_run.py:_finish():2163] finishing run samarthwork-iiit-hyderabad/mlp-wine-quality/jmwko2cw
+2024-10-01 19:19:23,592 INFO    Thread-6 (_run_job):47987 [wandb_run.py:_finish():2163] finishing run samarthwork-iiit-hyderabad/mlp-wine-quality/jmwko2cw

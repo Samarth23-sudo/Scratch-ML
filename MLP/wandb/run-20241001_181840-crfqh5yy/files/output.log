@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+  File "/home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/MLP_test.py", line 350, in <module>
+    mlp.fit(X_train, y_train)
+  File "/home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/MLP_test.py", line 148, in fit
+    train_acc = accuracy_score(y_train, train_predictions)
+  File "/home/samarth/.local/lib/python3.10/site-packages/sklearn/utils/_param_validation.py", line 213, in wrapper
+    return func(*args, **kwargs)
+  File "/home/samarth/.local/lib/python3.10/site-packages/sklearn/metrics/_classification.py", line 213, in accuracy_score
+    y_type, y_true, y_pred = _check_targets(y_true, y_pred)
+  File "/home/samarth/.local/lib/python3.10/site-packages/sklearn/metrics/_classification.py", line 94, in _check_targets
+    raise ValueError(
+ValueError: Classification metrics can't handle a mix of multiclass and continuous targets
+Traceback (most recent call last):
+  File "/home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/MLP_test.py", line 350, in <module>
+    mlp.fit(X_train, y_train)
+  File "/home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/MLP_test.py", line 148, in fit
+    train_acc = accuracy_score(y_train, train_predictions)
+  File "/home/samarth/.local/lib/python3.10/site-packages/sklearn/utils/_param_validation.py", line 213, in wrapper
+    return func(*args, **kwargs)
+  File "/home/samarth/.local/lib/python3.10/site-packages/sklearn/metrics/_classification.py", line 213, in accuracy_score
+    y_type, y_true, y_pred = _check_targets(y_true, y_pred)
+  File "/home/samarth/.local/lib/python3.10/site-packages/sklearn/metrics/_classification.py", line 94, in _check_targets
+    raise ValueError(
+ValueError: Classification metrics can't handle a mix of multiclass and continuous targets

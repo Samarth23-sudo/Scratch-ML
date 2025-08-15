@@ -1,0 +1,18 @@
+{"time":"2024-10-01T19:39:05.829077738+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-01T19:39:05.829105725+05:30","level":"INFO","msg":"created symlink","path":"/home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/wandb/run-20241001_193905-esrkwvz5/logs/debug-core.log"}
+{"time":"2024-10-01T19:39:05.829277082+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-01T19:39:05.830813125+05:30","level":"INFO","msg":"created new stream","id":"esrkwvz5"}
+{"time":"2024-10-01T19:39:05.830827404+05:30","level":"INFO","msg":"stream: started","id":"esrkwvz5"}
+{"time":"2024-10-01T19:39:05.830853395+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"esrkwvz5"}}
+{"time":"2024-10-01T19:39:05.830869909+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"esrkwvz5"}}
+{"time":"2024-10-01T19:39:05.830878706+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"esrkwvz5"}}
+{"time":"2024-10-01T19:39:06.234300581+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-01T19:39:06.234485231+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-01T19:39:19.860479334+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-01T19:39:19.86055804+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-01T19:39:23.047551875+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-01T19:39:25.15139529+05:30","level":"INFO","msg":"stream: closing","id":"esrkwvz5"}
+{"time":"2024-10-01T19:39:25.151428188+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"esrkwvz5"}}
+{"time":"2024-10-01T19:39:25.151442862+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"esrkwvz5"}}
+{"time":"2024-10-01T19:39:25.151479307+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"esrkwvz5"}}
+{"time":"2024-10-01T19:39:25.151485161+05:30","level":"INFO","msg":"stream: closed","id":"esrkwvz5"}

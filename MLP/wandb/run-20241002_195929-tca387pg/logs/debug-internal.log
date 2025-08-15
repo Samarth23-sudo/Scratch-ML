@@ -1,0 +1,19 @@
+{"time":"2024-10-02T19:59:29.2295743+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-02T19:59:29.229581193+05:30","level":"INFO","msg":"created symlink","path":"/home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/wandb/run-20241002_195929-tca387pg/logs/debug-core.log"}
+{"time":"2024-10-02T19:59:29.25431666+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-02T19:59:29.260841359+05:30","level":"INFO","msg":"created new stream","id":"tca387pg"}
+{"time":"2024-10-02T19:59:29.260902567+05:30","level":"INFO","msg":"stream: started","id":"tca387pg"}
+{"time":"2024-10-02T19:59:29.260959327+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"tca387pg"}}
+{"time":"2024-10-02T19:59:29.260966078+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"tca387pg"}}
+{"time":"2024-10-02T19:59:29.261033379+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"tca387pg"}}
+{"time":"2024-10-02T19:59:29.66229069+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-02T19:59:29.662643737+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-02T19:59:33.992309922+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-02T19:59:33.992383721+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-02T19:59:36.100869683+05:30","level":"INFO","msg":"stream: closing","id":"tca387pg"}
+{"time":"2024-10-02T19:59:36.100896817+05:30","level":"ERROR","msg":"sender: received Exit record more than once, ignoring"}
+{"time":"2024-10-02T19:59:36.542383085+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-02T19:59:37.68704926+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"tca387pg"}}
+{"time":"2024-10-02T19:59:37.687260983+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"tca387pg"}}
+{"time":"2024-10-02T19:59:37.687241626+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"tca387pg"}}
+{"time":"2024-10-02T19:59:37.687496031+05:30","level":"INFO","msg":"stream: closed","id":"tca387pg"}

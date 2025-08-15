@@ -1,0 +1,18 @@
+{"time":"2024-10-01T19:37:24.962485501+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-01T19:37:24.962508076+05:30","level":"INFO","msg":"created symlink","path":"/home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/wandb/run-20241001_193721-31mitjnn/logs/debug-core.log"}
+{"time":"2024-10-01T19:37:24.962661167+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-01T19:37:24.965509891+05:30","level":"INFO","msg":"created new stream","id":"31mitjnn"}
+{"time":"2024-10-01T19:37:24.965541015+05:30","level":"INFO","msg":"stream: started","id":"31mitjnn"}
+{"time":"2024-10-01T19:37:24.96558979+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"31mitjnn"}}
+{"time":"2024-10-01T19:37:24.965586015+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"31mitjnn"}}
+{"time":"2024-10-01T19:37:24.965602258+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"31mitjnn"}}
+{"time":"2024-10-01T19:37:25.427763517+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-01T19:37:25.42798919+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-01T19:37:31.423086825+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-01T19:37:31.423199387+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-01T19:37:36.245099058+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-01T19:37:39.158320589+05:30","level":"INFO","msg":"stream: closing","id":"31mitjnn"}
+{"time":"2024-10-01T19:37:39.158339393+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"31mitjnn"}}
+{"time":"2024-10-01T19:37:39.158363286+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"31mitjnn"}}
+{"time":"2024-10-01T19:37:39.158415634+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"31mitjnn"}}
+{"time":"2024-10-01T19:37:39.15846311+05:30","level":"INFO","msg":"stream: closed","id":"31mitjnn"}

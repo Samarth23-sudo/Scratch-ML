@@ -1,0 +1,14 @@
+{"time":"2024-10-01T19:18:10.616837444+05:30","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2024-10-01T19:18:10.616881962+05:30","level":"INFO","msg":"created symlink","path":"/home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/wandb/run-20241001_191810-vb8skwxu/logs/debug-core.log"}
+{"time":"2024-10-01T19:18:10.640606132+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-01T19:18:10.643920168+05:30","level":"INFO","msg":"created new stream","id":"vb8skwxu"}
+{"time":"2024-10-01T19:18:10.643945126+05:30","level":"INFO","msg":"stream: started","id":"vb8skwxu"}
+{"time":"2024-10-01T19:18:10.643979761+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"vb8skwxu"}}
+{"time":"2024-10-01T19:18:10.64401729+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"vb8skwxu"}}
+{"time":"2024-10-01T19:18:10.644024649+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"vb8skwxu"}}
+{"time":"2024-10-01T19:18:11.039228558+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-01T19:18:11.039635108+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-01T19:18:13.661067843+05:30","level":"INFO","msg":"stream: closing","id":"vb8skwxu"}
+{"time":"2024-10-01T19:18:13.661161623+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-01T19:18:13.661521127+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-01T19:18:17.040402162+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}

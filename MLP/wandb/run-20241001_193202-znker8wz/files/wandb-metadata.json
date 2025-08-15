@@ -1,0 +1,32 @@
+{
+  "os":  "Linux-6.8.0-40-generic-x86_64-with-glibc2.35",
+  "python":  "3.10.12",
+  "startedAt":  "2024-10-01T14:02:02.762386Z",
+  "program":  "/home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP/MLP_test.py",
+  "codePath":  "models/MLP/MLP_test.py",
+  "git":  {
+    "remote":  "https://github.com/smai-monsoon-24/smai-m24-assignments-Samarth23-sudo.git",
+    "commit":  "96bf06c9645bc4f130b6eee92011a66407f90531"
+  },
+  "email":  "samarthwork413@gmail.com",
+  "root":  "/home/samarth/SEM5/SMAI/Assignment/Assignment-1/smai-m24-assignments-Samarth23-sudo/models/MLP",
+  "host":  "samarth-Inspiron-14-5420",
+  "username":  "samarth",
+  "executable":  "/usr/bin/python",
+  "codePathLocal":  "MLP_test.py",
+  "cpu_count":  12,
+  "cpu_count_logical":  16,
+  "disk":  {
+    "/":  {
+      "total":  "112932057088",
+      "used":  "62068682752"
+    }
+  },
+  "memory":  {
+    "total":  "16438210560"
+  },
+  "cpu":  {
+    "count":  12,
+    "countLogical":  16
+  }
+}
