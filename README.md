@@ -200,6 +200,7 @@ predictions = model.predict(X_test)
 
 For more details, refer to the individual Python files in each folder. Each file contains class definitions, method documentation, and example usage.
 # Make predictions
+```
 predictions = model.predict(X)
 print(predictions)
 ```
